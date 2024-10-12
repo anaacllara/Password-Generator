@@ -4,7 +4,7 @@ import string
 print("Bem vindo ao gerador de senhas.")
 letra = (int(input("É permitido letras?\n Digite 1 para sim, 2 para não: "))) 
 numero = (int(input("É permitido numeros? \n Digite 1 para sim, 2 para não: ")))
-caEspeciais = (int(input("É permitido caracteres especiais? \n Digite 1 para sim, e 2 para não: )))
+caEspeciais = (int(input("É permitido caracteres especiais? \n Digite 1 para sim, e 2 para não: ")))
 tam = (int(input("Digite o tamanho da senha: ")))
 
 # passwords combinations
