@@ -24,6 +24,6 @@ Como usar o projeto Password Generator.
 How to use Password Generator's project.
 ``` In your screen will appear information for the program understand how you want your password. It is important to follow them. Then, your password you will be shown. ```
 ## Licença e Contribuição / Licence and Contribuition
-Este projeto não possui licença formal. Sinta-se à vontade para usá-lo e modificá-lo conforme necessidade. Se tiver dúvidas, entre em contato comigo.
+Este projeto não possui licença formal. Sinta-se à vontade para usá-lo e modificá-lo conforme necessidade (utilize a ferramenta branch). Se tiver dúvidas, entre em contato comigo.
 
-This project do not have formal licence. So feel free to use and make modification as your need. And, if you have doubts, contact me.
+This project do not have formal licence. So feel free to use and make modification as your need (use branch's tools). And, if you have doubts, contact me.
