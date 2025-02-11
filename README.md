@@ -1,21 +1,20 @@
-## Initial Projects 
+## Password Generator 
 
 ## Descrição/ Description
-Este repositório contém projetos que estou fazendo no início da minha carreira. Ou seja, você verá de perto meus avanços. 
-Por enquanto há apenas um gerador de senhas. 
+Um projeto que gera senhas conforme especificações do usuário. O Password generator visa melhorar a qualidade das senhas e dificultar em caso de invasão.
 
-This repository contains projects that I am working on at the begginning of my carear. Consequently, you will see my progress up close.
+An application that generates passwords according to user specifications. The Password Generator aims to improve password quality and make it more difficult in case of intrusion. 
 
 ## Instalação / Install
 Instruções: Você pode copiar o código e colar em algum ambiente de desenvolvimento.
 ```bash
 # Clone o repositório
-git clone https://github.com/anaacllara/initial-projects.git
+git clone https://github.com/anaacllara/password-generator.git
 ```
 Instructions: You can copy the code and paste in some development environment. 
 ```bash
 # Clone the repository
-git clone https://github.com/anaacllara/initial-projects.git
+git clone https://github.com/anaacllara/password-generator.git
 ```
 ## Uso / Use 
 Como usar o projeto Password Generator.
